@@ -1,4 +1,4 @@
-# NodeCourse Clean Architecture
+# Node Js Chat Application
 
 This repository is a NodeJs project.
 This is a chat application for a chat with sockets.
